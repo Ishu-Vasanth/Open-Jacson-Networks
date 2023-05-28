@@ -63,7 +63,7 @@ else:
 print("----------------------------------------------------------------------")
 ```
 ## Output:
-![prob6](https://github.com/Ishu-Vasanth/Open-Jacson-Networks/assets/94154614/a13a1198-594e-4891-840a-9062427fe82e)
+![ex6](https://github.com/Ishu-Vasanth/Open-Jacson-Networks/assets/94154614/f3ebac79-e475-4e2f-a052-c94bc53f518c)
 
 ## Result:
 Thus, the average number of material in the sysytem and in the conveyor and waiting time are successfully found using Open jackson network.
